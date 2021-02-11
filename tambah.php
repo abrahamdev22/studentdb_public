@@ -60,7 +60,7 @@ if(isset($_POST["submit"])){
         <div class="container">
             <div class="side-menu">
                 <ul>
-                    <a href="index.php"><li>Kembali</li></a>
+                    <a href="index.php"><li>&laquo; Back</li></a>
                     <a href="logout.php"><li>Logout</li></a>
                 </ul>
             </div>

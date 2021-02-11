@@ -40,7 +40,7 @@ if(isset($_POST["register"])){
         <div class="container">
             <div class="side-menu">
                 <ul>
-                    <a href="login.php"><li>Kembali</li></a>
+                    <a href="login.php"><li>&laquo; Back</li></a>
                 </ul>
             </div>
         </div>
